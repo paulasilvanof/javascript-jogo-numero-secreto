@@ -6,3 +6,5 @@
   <li>Aplicando reconhecimento de voz com JavaScript</li>
   <li>Manipulando dados, eventos e elementos com JavaScript</li>
 </ul>
+
+Deploy no Vercel: https://javascript-jogo-numero-secreto-swart.vercel.app/
